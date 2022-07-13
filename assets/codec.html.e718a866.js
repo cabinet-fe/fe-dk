@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-283470cc","path":"/utils/codec.html","title":"\u7F16\u89E3\u7801","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657701606000,"contributors":[{"name":"whj","email":"emailwen@qq.com","commits":1}]},"filePathRelative":"utils/codec.md"}');export{e as data};

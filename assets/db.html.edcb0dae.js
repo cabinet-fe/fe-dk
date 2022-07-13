@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-16ec6d38","path":"/utils/db.html","title":"\u6570\u636E\u5E93 IndexedDB","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657701606000,"contributors":[{"name":"whj","email":"emailwen@qq.com","commits":1}]},"filePathRelative":"utils/db.md"}');export{e as data};

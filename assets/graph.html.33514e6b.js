@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,a as e,b as c}from"./app.5ae1f617.js";const o={},s=e("h1",{id:"\u56FE-graph",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#\u56FE-graph","aria-hidden":"true"},"#"),c(" \u56FE Graph")],-1),_=[s];function h(n,d){return r(),t("div",null,_)}var l=a(o,[["render",h],["__file","graph.html.vue"]]);export{l as default};
